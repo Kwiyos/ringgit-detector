@@ -1,4 +1,4 @@
-# Malaysian-Ringgit-Detector (Android)
+# ringgit-detector (Android)
 This application is created with Tensorflow which uses machine learning (object detection) to learn and identify Malaysia banknotes.
 Identified banknotes are highlighted on the screen and the name is displayed.
 
