@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.objectdetection.app-merged_res-56:/layout_activity_main.xml.flat",
+        "source": "org.tensorflow.lite.examples.objectdetection.app-main-58:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\color\\selector_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-pngs-51:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-merged_res-56:\\drawable-v24_tfl_logo.png.flat",
+        "source": "C:\\Users\\Kar Wai\\.gradle\\daemon\\8.4\\org.tensorflow.lite.examples.objectdetection.app-main-58:\\drawable-v24\\tfl_logo.png"
+    }
+]
